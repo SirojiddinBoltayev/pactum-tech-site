@@ -2,12 +2,6 @@
  "_izoh": "UZ Cars Parking radiosi (Radio.cs). Yangi qo'shiq: .ogg faylni shu papkaga qo'shing va shu ro'yxatga qator yozing — o'yin yangilanishi shart emas. Faylni ALMASHTIRSANGIZ url oxiridagi ?v= raqamini oshiring (Cloudflare eski nusxani keshlaydi).",
  "qoshiqlar": [
   {
-   "id": "tor-joy",
-   "nomi": "Tor Joy",
-   "url": "https://pactum-tech.uz/radio/tor-joy.ogg?v=2",
-   "hajm": 846411
-  },
-  {
    "id": "gaz-bos",
    "nomi": "Gaz Bos",
    "url": "https://pactum-tech.uz/radio/gaz-bos.ogg?v=2",
