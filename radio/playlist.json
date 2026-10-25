@@ -1,0 +1,35 @@
+{
+ "_izoh": "UZ Cars Parking radiosi (Radio.cs). Yangi qo'shiq: .ogg faylni shu papkaga qo'shing va shu ro'yxatga qator yozing — o'yin yangilanishi shart emas.",
+ "qoshiqlar": [
+  {
+   "id": "tor-joy",
+   "nomi": "Tor Joy",
+   "url": "https://pactum-tech.uz/radio/tor-joy.ogg",
+   "hajm": 851857
+  },
+  {
+   "id": "gaz-bos",
+   "nomi": "Gaz Bos",
+   "url": "https://pactum-tech.uz/radio/gaz-bos.ogg",
+   "hajm": 2932417
+  },
+  {
+   "id": "natija-gapiradi",
+   "nomi": "Natija Gapiradi",
+   "url": "https://pactum-tech.uz/radio/natija-gapiradi.ogg",
+   "hajm": 3110061
+  },
+  {
+   "id": "toshkent-kechasi",
+   "nomi": "Toshkent Kechasi",
+   "url": "https://pactum-tech.uz/radio/toshkent-kechasi.ogg",
+   "hajm": 3122623
+  },
+  {
+   "id": "yollar",
+   "nomi": "Yo'llar, yo'llar",
+   "url": "https://pactum-tech.uz/radio/yollar.ogg",
+   "hajm": 2605427
+  }
+ ]
+}
